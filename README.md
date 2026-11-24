@@ -1,4 +1,4 @@
-# Hi, I am Mayank!
+# Hi, I am Mayank
 
 ## About Me
 
@@ -29,5 +29,5 @@
 ## Connect With Me
 
 - GitHub: https://github.com/Mayank1531
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email]
+- LinkedIn: [https://www.linkedin.com/in/mayank-sharma-527943434/]
+- Email: [mayank.mukesh2008@gmail.com]
